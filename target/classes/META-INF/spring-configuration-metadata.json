@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "redis",
+      "type": "com.redis.configuration.RedisProperties",
+      "sourceType": "com.redis.configuration.RedisProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "redis.host",
+      "type": "java.lang.String",
+      "sourceType": "com.redis.configuration.RedisProperties"
+    },
+    {
+      "name": "redis.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.redis.configuration.RedisProperties"
+    }
+  ],
+  "hints": []
+}

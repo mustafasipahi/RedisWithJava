@@ -1,0 +1,6 @@
+META-INF/spring-configuration-metadata.json
+com/redis/configuration/RedisProperties.class
+com/redis/controller/RedisCacheController.class
+com/redis/Application.class
+com/redis/configuration/RedisConfiguration.class
+com/redis/service/RedisCacheService.class
